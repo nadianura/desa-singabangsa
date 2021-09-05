@@ -1,0 +1,3 @@
+gunakan paging utk menampilkan berita
+
+rapihkan kembali komentar2/remark yang tdk sesuai

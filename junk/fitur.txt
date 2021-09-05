@@ -1,0 +1,58 @@
+Menu 1 (Halaman)
+1. Profil Desa
+
+– 1. profile penduduk desa ||table data_penduduk (berupa data table, jml pend. seluruhnya
+berd. umur, jenkel,AGAMA ) berpengaruh di statistik.
+	laporan pdf.
+
+– 2. profil wilayah desa (DOKUMENT)
+– 3. profil sosial desa
+
+2. Pemerintahan Desa
+
+- 2. Peraturan Desa
+– 3. profil Pemerintah Desa (Visi dan Misi,Badan Permusyawaratan Desa (BPD), struktur organisasi, tambah tabel pegawai)
+– 4. Rancangan Pembelanjaan Jangka Menengah (RPJM) Desa (program kerja spt proposal, bentuknya dokumen upload pertahun)
+
+
+3. lembaga masyarakat (struktur organisasi bentuk text dan gambar bagan)
+– 1. Lembaga Ketahanan Masyarakat Desa (LKMD)
+– 2. Pembinaan Kesejahteraan Keluarga (PKK)
+– 3. Perlindungan Masyarakat (Linmas)
+– 4. Kelompok Tani
+– 5. Kelompok Ternak
+– 6. Kelompok Ekonomi
+
+4. Data Desa (ambil dari penduduk)
+– 1. Statistik Pendidikan dalam KK
+– 3. Statistik Jenis Kelamin
+– 4. Statistik Agama
+
+
+Menu 2 (Kategori)
+1. beranda 
+- 1. Berita Desa
+- 2. berita umum (nasional/internasional)
+2. Agenda Desa (perbulan/tahunnya)
+3. Potensi Desa (buat dinamis, bentuknya artikel dan gambar, wisata, pertanian, peternakan)
+
+6. Panduan Desa (tampilkan text tanpa masuk database disertai gambar)
+- 1. pembuatan ktp
+- 2. pembuatan KK
+- 3. pembuatan akte 
+- 4. pembuatan surat kematian
+- 5. pengantar SKCK
+
+Menu 3 (Media Jejaring Sosial)
+1. Facebook
+2. Twitter
+3. Google+
+4. YouTube4.
+5. Kontak Desa
+
+4. Gallery Desa
+– 1. Album Foto 1
+– 2. Album Foto 2
+– 3. dan seterusnya
+
+tambahkan fitur saran.
